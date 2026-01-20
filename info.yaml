@@ -22,6 +22,7 @@ project:
     - "adder17.sv"
     - "alu.sv"
     - "dadda.sv"
+    - "fsm.sv"
     - "full_adder.sv"
     - "half_adder.sv"
     - "matmult.sv"
