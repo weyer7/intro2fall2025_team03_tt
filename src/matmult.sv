@@ -13,7 +13,7 @@ module matmult (
     input logic rst,
     output logic ready,
     output logic transaction_ready,
-    output logic calc_done,
+    output logic calc_done
     //output logic [7:0] left,
     //output logic [17:0] result
    
