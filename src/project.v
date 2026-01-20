@@ -1,6 +1,6 @@
 `default_nettype none
 
-module matrix_mult (
+module tt_um_intro_ii_f25_matrix_mult (
 `ifdef USE_POWER_PINS
     inout VPWR,
     inout VGND,
